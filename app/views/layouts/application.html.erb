@@ -23,7 +23,8 @@
     Signed in as <%= current_user.email %>
   <% else %>
   <%= link_to "Sign up", new_user_registration_path %>
-  <% end %>
+<% end %>
+  <%= link_to "Sign in", new_user_session_path %>
 </nav>
 <%= yield %>
 
