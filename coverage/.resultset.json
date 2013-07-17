@@ -22,11 +22,15 @@
       "/Users/emmahardman/ticketee/app/helpers/application_helper.rb": [
         1,
         1,
-        14,
-        14,
-        14,
+        20,
+        20,
+        20,
         null,
         null,
+        null,
+        null,
+        1,
+        57,
         null,
         null
       ],
@@ -47,7 +51,7 @@
         null,
         null,
         1,
-        28,
+        37,
         null,
         null,
         1,
@@ -100,7 +104,7 @@
         null,
         null,
         1,
-        20,
+        26,
         null,
         1,
         1,
@@ -180,6 +184,6 @@
         null
       ]
     },
-    "timestamp": 1374095627
+    "timestamp": 1374101106
   }
 }
