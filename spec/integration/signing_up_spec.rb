@@ -12,3 +12,4 @@ feature 'Signing up' do
     page.should have_content(message)
   end
 end
+
