@@ -73,6 +73,10 @@
         1,
         null
       ],
+      "/Users/emmahardman/ticketee/app/helpers/files_helper.rb": [
+        1,
+        null
+      ],
       "/Users/emmahardman/ticketee/app/helpers/projects_helper.rb": [
         1,
         null
@@ -192,6 +196,23 @@
         1,
         1,
         17,
+        null,
+        null
+      ],
+      "/Users/emmahardman/ticketee/app/controllers/files_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
         null,
         null
       ],
@@ -393,11 +414,11 @@
         1,
         null,
         1,
-        78,
-        110,
+        80,
+        111,
         null,
         null,
-        40,
+        41,
         null,
         null,
         null,
@@ -407,10 +428,12 @@
       "/Users/emmahardman/ticketee/app/models/asset.rb": [
         1,
         1,
+        null,
+        1,
         1,
         null
       ]
     },
-    "timestamp": 1375734418
+    "timestamp": 1375738880
   }
 }
