@@ -297,6 +297,7 @@
         null,
         1,
         5,
+        20,
         null,
         null,
         1,
@@ -377,6 +378,7 @@
         1,
         1,
         1,
+        1,
         null,
         null
       ],
@@ -401,8 +403,14 @@
         null,
         null,
         null
+      ],
+      "/Users/emmahardman/ticketee/app/models/asset.rb": [
+        1,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1375729350
+    "timestamp": 1375734418
   }
 }
