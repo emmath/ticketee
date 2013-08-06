@@ -60,5 +60,6 @@ group :test do
   gem 'email_spec', '1.2.1'
   gem 'simplecov', :require => false
   gem 'launchy'
+  gem 'database_cleaner', '0.7.2'
 end
 
